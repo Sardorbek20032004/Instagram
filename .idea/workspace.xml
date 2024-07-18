@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d77d3d6c-bbd3-4275-a95c-f080885ead8a" name="Changes" comment="">
+
       <change afterPath="$PROJECT_DIR$/src/file/users.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -12,6 +13,14 @@
       <change beforePath="$PROJECT_DIR$/src/model/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Notification.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/service/UserServise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/UserServise.java" afterDir="false" />
+
+      <change afterPath="$PROJECT_DIR$/src/enam/CommentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file/comments.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instagram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Instagram.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/CommentService.java" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +37,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/AppData/Local/Temp/22fe4165-ceb5-417f-8201-9a779932fa65_files.zip.a65/files/src/Main1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Temp/75dc1253-7473-4fd6-b620-6c78e8255841_files.zip.841/files/src/Main1.java" root0="SKIP_INSPECTION" />
@@ -56,6 +66,10 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "editor.preferences.completion"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
