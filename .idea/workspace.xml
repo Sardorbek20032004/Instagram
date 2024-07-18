@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d77d3d6c-bbd3-4275-a95c-f080885ead8a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enam/CommentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file/comments.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Instagram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Instagram.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Notification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/service/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/NotificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/CommentService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,10 +73,24 @@
       <workItem from="1721318418247" duration="19000" />
       <workItem from="1721318453345" duration="2015000" />
       <workItem from="1721322068801" duration="11000" />
+      <workItem from="1721325039977" duration="115000" />
+      <workItem from="1721325214482" duration="515000" />
+      <workItem from="1721325789602" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
